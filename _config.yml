@@ -16,7 +16,7 @@
 title: cpknight.tech
 email: chris@cpknight.io
 description: >- # this means to ignore newlines until "baseurl:"
-  @cpknight is a sweet, doughnuty Cascadian who lives on the Rockies’ Eastern steppe and designs/build low-cost autonomous sensor payload packages that attach to aerial drones, as well as their related accessories.
+  @cpknight is a sweet, doughnuty Cascadian who lives on the Rocky Mountains' Eastern steppe and designs/builds low-cost autonomous sensor payload packages that attach to aerial drones (as well as their related accessories).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cpknight.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cpknight
