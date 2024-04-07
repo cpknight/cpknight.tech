@@ -5,7 +5,7 @@ permalink: /
 show_downloads: false
 ---
 
-![cpknight.tech logo](/logo-cpknight-website.png){:height="150px"}
+![cpknight.tech logo](/logo-cpknight-website.png){:height="150px" .align-right}
 
 *Welcome to `cpknight.tech`* - I'm a sweet, doughnuty Cascadian who lives on the Rockies' Eastern steppe. 
 
