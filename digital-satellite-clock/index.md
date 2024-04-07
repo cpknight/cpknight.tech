@@ -22,7 +22,7 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 
 - Download the: [**Quick Reference Card** and **Important Safety Information**](PN-YONNE-000-40.pdf) (PDF)
 
-- Dimensions: **18cm x 4.5cm x 5cm** (L x W x H)
+- Dimensions: **18cm x 4.5cm x 4.5cm** (L x W x H)
 - Weight: **350g** (on Earth)
 
 - Online Ordering: **[Tindie Store](https://www.tindie.com/products/cpknight/digital-satellite-clock/)**
