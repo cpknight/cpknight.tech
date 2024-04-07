@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Goto: [dSc](digital-satellite-clock/)
