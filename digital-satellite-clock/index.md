@@ -24,6 +24,7 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 
 - Dimensions: **18cm x 4.5cm x 4.5cm** (L x W x H)
 - Weight: **350g** (on Earth)
+- Input Power: **5V DC 1.0A** (via USB-style connector &mdash; _connector cable is provided; 5V power supply is not included_)
 
 - Online Ordering: **[Tindie Store](https://www.tindie.com/products/cpknight/digital-satellite-clock/)**
 
