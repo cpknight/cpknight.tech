@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "CPKnight.tech"
+# title: "CPKnight.tech"
 permalink: /
 show_downloads: false
 ---
