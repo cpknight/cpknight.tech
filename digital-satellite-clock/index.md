@@ -12,13 +12,13 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 
 **UTC time** ([Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)) is displayed in 24-hour format by default on the clock, unless it was ordered with custom time zone and/or daylight savings time settings (_I can make you a custom version of the clock if you specify this option when ordering from the [Tindie Store](https://www.tindie.com/products/cpknight/digital-satellite-clock/)_).
 
-### Image Gallery
+### Image Gallery:
 
 | ![Blue LEDs, Left](yonne-blue-left.png) | ![Blue LEDs, Middle](yonne-blue.png) | ![Blue LEDs, Right](yonne-blue-right.png) |
 | ![Green LEDs, Left](yonne-green-left.png) | ![Green LEDs, Middle](yonne-green.png) | ![Green LEDs, Right](yonne-green-right.png) |
 | ![Red LEDs, Left](yonne-red-left.png) | ![Red LEDs, Middle](yonne-red.png) | ![Red LEDs, Right](yonne-red-right.png) |
 
-### Details and Documentation
+### Details and Documentation:
 
 - Download the: [**Quick Reference Card** and **Important Safety Information**](PN-YONNE-000-40.pdf) (PDF)
 
@@ -28,7 +28,7 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 
 - Online Ordering: **[Tindie Store](https://www.tindie.com/products/cpknight/digital-satellite-clock/)**
 
-### FAQ and Troubleshooting
+### FAQ and Troubleshooting:
 
 - **What happens when I turn on the clock the first time?** The first time you power on the clock after a period of inactivity the device may take up to 15 minutes or more to acquire a reliable GNSS signal. For best reception place the clock in an area with a clear view of the sky.  
 
@@ -60,7 +60,7 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
   
 - **I'd like to replace some of the parts inside, and/or program my own firmware for this clock. How do I do that?** You can't really &mdash; this device is not intended to have any user-servicable parts, and the USB-style connector on the side is for power purposes (ie. recharging the battery) only. With that said, if you're willing to void the warranty on the device, you _might_ be able to pry it open and do a little hacking. I quite like hacking devices myself, so if you're really wanting to do this, then please [contact me](mailto:chris@cpknight.io) and I'd be happy to help you out with some more details, notes, etc. There is a LiPo battery in there, however, so please be careful, though and any disassembly, modifications, hacks, etc. are entirely at your own risk!  
 
-### Limited Warranty
+### Limited Warranty:
 
 **Two (2) Year Limited Warranty**: @cpknight warrants this product to be free from defects in workmanship and material for a period of two years from date of purchase and will repair or replace units found to be defective at our discretion. This warranty does not cover damage through accident, misue, intentional disassembly, or modification. For any concerns, please [contact @cpknight](mailto:chris@cpknight.io) for information and troubleshooting tips. Should this product require replacement (at our option) while under warranty, please pack the item and return it prepaid, along with store receiipt showing date of purchase to:
 
