@@ -58,14 +58,15 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 	- Other factors, such as temperature, discharge rate, and the number of charge-discharge cycles, can also impact the battery's performance. High temperatures can accelerate the degradation of the battery, while high discharge rates can lead to a decrease in capacity.
 	- As the device is intended to be powered primarily by a 5V power supply, the LiPo battery should only be used as a backup power source. This will help to extend the battery's lifespan by reducing the number of charge-discharge cycles and minimizing the impact of other factors that can degrade battery performance.
 
+
 - **I'd like to replace some of the parts inside, and/or program my own firmware for this clock. How do I do that?** You can't really &mdash; this device is not intended to have any user-servicable parts, and the USB-style connector on the side is for power purposes (ie. recharging the battery) only. With that said, if you're willing to void the warranty on the device, you _might_ be able to pry it open and do a little hacking. I quite like hacking devices myself, so if you're really wanting to do this, then please [contact me](mailto:chris@cpknight.io) and I'd be happy to help you out with some more details, notes, etc. There is a LiPo battery in there, however, so please be careful, though and any disassembly, modifications, hacks, etc. are entirely at your own risk!
 
 ### Limited Warranty
 
 **Two (2) Year Limited Warranty**: @cpknight warrants this product to be free from defects in workmanship and material for a period of two years from date of purchase and will repair or replace units found to be defective at our discretion. This warranty does not cover damage through accident, misue, intentional disassembly, or modification. For any concerns, please [contact @cpknight](mailto:chris@cpknight.io) for information and troubleshooting tips. Should this product require replacement (at our option) while under warranty, please pack the item and return it prepaid, along with store receiipt showing date of purchase to:
 
-> cpknight.tech
-> 400 - 909 17 Ave SW
-> Calgary AB  T2P 0A4
+> cpknight.tech  
+> 400 - 909 17 Ave SW  
+> Calgary AB  T2P 0A4  
 
 - There are no express warranties except as listed above. 
