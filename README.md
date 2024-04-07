@@ -1,6 +1,6 @@
-# cpknight.github.io
+# cpknight.tech
 
-Welcome to cpknight.github.io
+Welcome to ~cpknight.github.io~ cpknight.tech
 
 Please enjoy this interesting content.
 
