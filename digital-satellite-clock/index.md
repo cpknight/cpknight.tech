@@ -1,6 +1,6 @@
 ---
 #layout: page
-title: "dSc: Digital Satellite Clock"
+title: "Digital Satellite Clock"
 permalink: /digital-satellite-clock/
 ---
 
