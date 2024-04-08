@@ -28,7 +28,9 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 	- _Note: a connector cable is provided with the clock; a 5V power supply is not included._  
 - LiPo Battery: **3.7V 12Wh** (internal; not removeable)
   
-- Online Ordering: **[Tindie Store](https://www.tindie.com/cpknight/digital-satellite-clock/)**
+- Online Ordering: 
+	- **[Tindie Store](https://www.tindie.com/cpknight/digital-satellite-clock/)**
+	- **eBay**: [(Red)](https://www.ebay.com/itm/186382788073) [(Green)](https://www.ebay.com/itm/186382788826) [(Blue)](https://www.ebay.com/itm/186382788523)
 
 ### FAQ and Troubleshooting:
 
