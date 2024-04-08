@@ -26,8 +26,8 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 - Weight: **260g** (on Earth)
 - Input Power: **DC 5V 1.0A** (via USB-style connector)
 	- _Note: a connector cable is provided with the clock; a 5V power supply is not included._
-
-
+  
+  
 - Online Ordering: **[Tindie Store](https://www.tindie.com/products/cpknight/digital-satellite-clock/)**
 
 ### FAQ and Troubleshooting:
