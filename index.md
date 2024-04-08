@@ -13,6 +13,6 @@ I design and build low-cost autonomous sensor payload packages that attach to ae
 
 ### Product Information:
 
-- [dsc: **Digital Satellite Clock**](digital-satellite-clock/)
-- [paro: **Personal Autonomous Reconnaissance Observer**](https://github.com/cpknight/Paro)
+- [dSc: **Digital Satellite Clock**](digital-satellite-clock/)
+- [PARO: **Personal Autonomous Reconnaissance Observer**](personal-autonomous-reconnaissance-observer/)
 
