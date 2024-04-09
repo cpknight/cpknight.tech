@@ -1,6 +1,6 @@
 ---
 #layout: page
-title: "Personal Autonomous Reconnaissance Observer"
+title: "Personal Autonomous Recce Observer"
 permalink: /personal-autonomous-reconnaissance-observer/
 ---
 
