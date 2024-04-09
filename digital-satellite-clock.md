@@ -30,7 +30,7 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
   
 - Online Ordering: 
 	- **[Tindie Store](https://www.tindie.com/cpknight/digital-satellite-clock/)**
-	- **[eBay Listings](https://www.ebay.com/sch/i.html?_ssn=cp.knight)**
+	- **[eBay Listings](https://www.ebay.com/usr/cp.knight)**
 
 ### FAQ and Troubleshooting:
 
