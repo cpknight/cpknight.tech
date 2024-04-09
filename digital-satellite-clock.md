@@ -10,7 +10,7 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 
 ![dSc View (Red, Green, and Blue)](/assets/img/yonne-rgb.png){:width="100%" style="align: center; border-radius: 10px; border: 6px solid #bbb;"}
 
-**UTC time** ([Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)) is displayed in 24-hour format by default on the clock, unless it was ordered with custom time zone and/or daylight savings time settings (_I can make you a custom version of the clock if you specify this option when ordering from the [Tindie Store](https://www.tindie.com/products/cpknight/assets/img/)_).
+**UTC time** ([Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)) is displayed in 24-hour format by default on the clock, unless it was ordered with custom time zone and/or daylight savings time settings (_I can make you a custom version of the clock if you specify this option when ordering from the [Tindie Store](https://www.tindie.com/cpknight/digital-satellite-clock/)_).
 
 ### Image Gallery:
 
