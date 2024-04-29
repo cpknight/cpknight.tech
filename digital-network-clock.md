@@ -4,7 +4,7 @@ title: "Digital Network Clock"
 permalink: /digital-network-clock/
 ---
 
-<!-- ![dNc Logo](/assets/img/logo-digital-network-clock-reduced.png){:width="111px" style="float: right;"} -->
+![dNc Logo](/assets/img/logo-digital-network-clock-reduced.png){:width="111px" style="float: right;"}
 
 The **Digital Network Clock** is a simple, easy-to-use, autonomous clock. What makes this clock "autonomous" is that you never need to set the time &mdash; you simply turn it on, connect it to your local WiFi network, and it will display the current time using signals received from Network Time Protocol (NTP) servers. Plus, the clock contains an internal rechargable battery so that it can operate for extended periods when the external power goes out. The clock can be ordered with a `Blue` `Red` or `Green` digital LED matrix display.
 
