@@ -1,10 +1,26 @@
 ---
+title: Redirecting to GitHub
+redirect_to: https://github.com/cpknight
+---
+
+# Redirecting...
+
+You are being redirected to [github.com/cpknight](https://github.com/cpknight).
+
+<meta http-equiv="refresh" content="0;url=https://github.com/cpknight">
+<script>
+    window.location.href = "https://github.com/cpknight";
+</script>
+<!--
+---
 layout: home
 # title: "CPKnight.tech"
 permalink: /
 show_downloads: false
 ---
+-->
 
+<!--
 ![cpknight.tech logo](/assets/img/logo-cpknight-website.png){:width="250px" style="float: right;"}
 
 ### :computer: Welcome to **`cpknight.tech`** &mdash;
@@ -28,4 +44,4 @@ I design and build low-cost autonomous sensor payload packages that attach to ae
 
 ### :technologist: About Me &mdash;
 
-I'm a sweet, doughnuty Cascadian who lives on the Rockies' Eastern steppe in Calgary, Alberta. For more information about my tech and process, please check out [GitHub](https://github.com/cpknight) or contact me via <!-- [Twitter/𝕏](https://x.com/cpknight) or -->[email](mailto:chris@cpknight.io).
+I'm a sweet, doughnuty Cascadian who lives on the Rockies' Eastern steppe in Calgary, Alberta. For more information about my tech and process, please check out [GitHub](https://github.com/cpknight) or contact me via <!-- [Twitter/𝕏](https://x.com/cpknight) or -->[email](mailto:chris@cpknight.io). -->
