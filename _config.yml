@@ -1,3 +1,4 @@
+```yaml
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -34,6 +35,7 @@ plugins:
   - jekyll-remote-theme 
   - jemoji
   - jekyll-compress-images
+  - jekyll-redirect-from # Added to support redirect_to in index.md (remove for reversion)
 
 # minima:
 #   skin: dark
@@ -42,11 +44,27 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: # Modified to exclude non-essential pages (remove these lines for reversion)
+  - "*.md" # Exclude all Markdown files except index.md
+  - "*.html" # Exclude any stray HTML files
+  - "_posts/*" # Exclude blog posts
+  - "_pages/*" # Exclude custom pages
+  - "about.md" # Exclude specific pages
+  - "contact.md" # Exclude specific pages
+include: # Added to ensure essential files are processed (remove for reversion)
+  - index.md # Explicitly include index.md
+  - assets/ # Keep assets like CSS, JS, images
+  - _data/ # Keep data files for theme
+defaults: # Added to set minimal layout and disable nav (remove for reversion)
+  - scope:
+      path: ""
+    values:
+      layout: single # Use minimal layout without navigation
+      show_nav: false # Disable navigation menu
+
+# For reversion: Remove the following lines/blocks:
+# - plugins: "- jekyll-redirect-from"
+# - exclude: block (all lines from "exclude:" to "contact.md")
+# - include: block (all lines from "include:" to "_data/")
+# - defaults: block (all lines from "defaults:" to "show_nav: false")
+```
