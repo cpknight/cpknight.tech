@@ -94,6 +94,7 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 ### Limited Warranty:
 
 **Two (2) Year Limited Warranty**: @cpknight warrants this product to be free from defects in workmanship and material for a period of two years from date of purchase and will repair or replace units found to be defective at our discretion. This warranty does not cover damage through accident, misue, intentional disassembly, or modification. For any concerns, please [contact us](mailto:chris@cpknight.io) for information and troubleshooting tips. Should this product require replacement (at our option) while under warranty, please pack the item and return it prepaid, along with store receiipt showing date of purchase to:
--->
 
 - There are no express warranties except as listed above. 
+
+-->
