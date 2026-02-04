@@ -2,7 +2,21 @@
 #layout: page
 title: "Digital Satellite Clock"
 permalink: /digital-satellite-clock/
+redirect_to: https://www.tarn.parts/yonne/dsc/
 ---
+
+# Redirecting...
+
+You are being redirected to [Digital Satellite Clock](https://www.tarn.parts/yonne/dsc/).
+
+<meta http-equiv="refresh" content="0;url=https://www.tarn.parts/yonne/dsc/">
+<script>
+    window.location.href = "https://www.tarn.parts/yonne/dsc/";
+</script>
+
+
+
+<!--
 
 ![dSc Logo](/assets/img/logo-digital-satellite-clock-reduced.png){:width="111px" style="float: right;"}
 
@@ -82,6 +96,8 @@ The **Digital Satellite Clock** is a simple, easy-to-use, autonomous clock. What
 **Two (2) Year Limited Warranty**: @cpknight warrants this product to be free from defects in workmanship and material for a period of two years from date of purchase and will repair or replace units found to be defective at our discretion. This warranty does not cover damage through accident, misue, intentional disassembly, or modification. For any concerns, please [contact us](mailto:chris@cpknight.io) for information and troubleshooting tips. Should this product require replacement (at our option) while under warranty, please pack the item and return it prepaid, along with store receiipt showing date of purchase to:
 
 > CPKNIGHT TECH  
+
+-->
 > 400 - 909 17 AVE SW  
 > CALGARY AB  T2T 0A4  
 > CANADA  
